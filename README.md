@@ -77,6 +77,12 @@ Managed the application release process through Google Play Console, including a
 #### Source Code Policy
 This project is closed-source. This public repository serves exclusively as a portfolio showcase, featuring the project overview, architectural breakdown, screenshots, and demonstration materials.
 
+## Google Play
+
+The application is available on Google Play:
+
+[View the application on Google Play](https://play.google.com/store/apps/details?id=com.amimon.aam.app_63_aab)
+
 #### -------------------------------------------------------------------------------------------------------------- 
 
 Author:
