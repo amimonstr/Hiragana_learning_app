@@ -82,3 +82,18 @@ This project is closed-source. This public repository serves exclusively as a po
 Author:
 Independent software development project.
 Developed in Japan.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/01_start_english.jpg" width="250"></td>
+    <td><img src="screenshots/11_game_play_english.jpg" width="250"></td>
+    <td><img src="screenshots/10_game_play_progress.jpg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/09_game_play_russian.jpg" width="250"></td>
+    <td><img src="screenshots/07_menu_english.jpg" width="250"></td>
+    <td><img src="screenshots/08_menu_russian.jpg" width="250"></td>
+  </tr>
+</table>
