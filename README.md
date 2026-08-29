@@ -100,6 +100,6 @@ Developed in Japan.
   <tr>
     <td><img src="screenshots/09_game_play_russian.jpg" width="250"></td>
     <td><img src="screenshots/07_menu_english.jpg" width="250"></td>
-    <td><img src="screenshots/08_menu_russian.jpg" width="250"></td>
+    <td><img src="screenshots/12_win.jpg" width="250"></td>
   </tr>
 </table>
