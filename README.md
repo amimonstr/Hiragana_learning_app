@@ -17,8 +17,6 @@ The application helps users retain information through an intuitive interface fe
   </tr>
 </table>
 
----
-
 ## Features
 
 * **Adaptive Content Delivery:** Smart algorithm adjusting material selection based on personal performance.
@@ -27,6 +25,8 @@ The application helps users retain information through an intuitive interface fe
 * **User Progress Tracking:** Saving and monitoring of individual learning milestones.
 * **Multilingual Interface:** 
 * **Versatile Core Architecture:** Subject-agnostic codebase engineered for seamless expansion to other subjects (Katakana, Kanji, and foreign alphabets).
+
+---
 
 ## Tech & Development
 
@@ -46,6 +46,7 @@ The application helps users retain information through an intuitive interface fe
 * **Debugging & Testing:** ADB (Android Debug Bridge), Logcat analysis, Google Play Internal Testing.
 * **Release & Publishing:** Keystore management & application signing, Android App Bundle (AAB) generation, Google Play Console deployment.
 
+---
 
 ## Development Process
 
@@ -89,6 +90,18 @@ The application is available on Google Play:
 * **Author:**
 Independent software development project.
 Developed in Japan.
+
+## About the Developer
+
+An independent software developer based in Japan with a diverse background spanning software development, business development, and language education.
+
+Technical Background: Experience with Python, C++, the Kivy framework, and Android application development. Enthusiastic about autonomous learning and solving complex technical challenges.
+
+Business & Localization Expertise: Extensive experience in Japanese corporate environments, including business development, cross-border negotiations, coordination between companies, and multilingual communication.
+
+Full-Cycle Execution: This project demonstrates the developer's ability to independently manage the complete software product lifecycle—from initial concept and architecture through logic implementation, debugging, Android packaging, testing, and Google Play deployment.
+
+---
 
 ## Screenshots
 
